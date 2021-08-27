@@ -1,8 +1,11 @@
-package keita.mountain.book.loop;
 
 public class Loop {
 
-	public static void exapmle1(String[] args) {
+	public static void main(String[] args) {
+		example1();
+	}
+
+	public static void example1() {
 
 		Integer a = 11;
 
