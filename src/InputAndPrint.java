@@ -13,14 +13,14 @@ public class InputAndPrint {
 		int month;
 		int day;
 
-		System.out.print("”N:");
+		System.out.print("å¹´:");
 		year = scn.nextInt();
-		System.out.print("ŒŽ:");
+		System.out.print("æœˆ:");
 		month = scn.nextInt();
-		System.out.print("“ú:");
+		System.out.print("æ—¥:");
 		day = scn.nextInt();
 
-		System.out.println(year + "”N" + month + "ŒŽ" + day + "“ú");
+		System.out.println(year + "å¹´" + month + "æœˆ" + day + "æ—¥");
 		scn.close();
 	}
 }
